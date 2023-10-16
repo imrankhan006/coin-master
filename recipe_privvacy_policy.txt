@@ -1,0 +1,34 @@
+Privacy Policy for Recipe API
+
+Effective Date: 16/Oct/2023
+
+Thank you for using the Food Recipe. This Privacy Policy explains how we collect, use, and handle data when you access and use our API. Please read this policy carefully to understand our practices regarding your data.
+
+No Data Storage:
+
+We do not store any data you request through the Recipe API. Data retrieved from the API is not stored in any form beyond the duration of your request.
+Data Collection:
+
+When you use the Food Recipe app, we may collect and temporarily process data necessary to fulfill your request. This may include search queries and other information relevant to the request, but this data is not retained after your request is completed.
+User Authentication:
+
+The Recipe API does not require user authentication or login. We do not collect any personally identifiable information (PII) such as usernames, passwords, or email addresses.
+Data Security:
+
+We take the security of your data seriously. While we do process data to fulfill your requests, we take measures to ensure that this data is not accessible to unauthorized parties during the request process.
+Third-Party Services:
+
+Please note that the Recipe API may use third-party services or data sources. While we make efforts to ensure the privacy and security of your data during interactions with these services, we recommend reviewing the privacy policies of these third parties for more information on their data handling practices at https://developer.edamam.com/edamam-docs-recipe-api.
+Cookies and Tracking:
+
+We do not use cookies or tracking technologies to collect or store information about your usage of the Recipe API.
+Compliance with Applicable Laws:
+
+We comply with all relevant data protection and privacy laws. If you have any concerns about your data's privacy or security, please contact us using the provided contact information.
+Changes to this Privacy Policy:
+
+We may update this Privacy Policy to reflect changes in our data handling practices or in response to legal or regulatory developments. Any updates will be posted on our website or application.
+Contact Us:
+
+If you have any questions or concerns regarding this Privacy Policy or the data handling practices of the Recipe API, please contact us at imranmct97@gmail.com.
+By using the Food Recipe , you consent to the practices described in this Privacy Policy. If you do not agree with this policy, please refrain from using the API. This policy is subject to change, so please check back periodically for updates. Your continued use of the Recipe API after any modifications to this Privacy Policy will constitute your acceptance of those changes.
